@@ -1,1 +1,16 @@
 /* styles go here */
+fieldset {
+  margin-bottom: 20px;
+}
+
+.input {
+  margin-bottom: 10px;
+}
+
+p {
+  margin: 0;
+}
+
+.age {
+  width: 65px;
+}
